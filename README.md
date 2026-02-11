@@ -1,6 +1,5 @@
 # Netflix Shows and Movies - EA
 
-# README — Netflix Shows & Movies — Exploratory Analysis
 
 > Описание
 
